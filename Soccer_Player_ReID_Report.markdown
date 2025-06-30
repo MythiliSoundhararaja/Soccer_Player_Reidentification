@@ -143,7 +143,8 @@ Several tracking and ReID algorithms were researched and tested, including PRTre
 - Attempted to run tracking with a sample command:
 
   ```bash
-  !python track.py --source 0 --yolo-weights yolov7.pt --classes 16 17  # tracks cats and dogs, only
+  !python track.py --source 0 --yolo-weights yolov7.pt --strong-sort-weights osnet_x0_25_msmt17.pt --save-vid --show-vid
+
   ```
 - Adapted for the project video (`15sec_input_720p.mp4`) and YOLOv11 weights (`best.pt`).
 
