@@ -1,0 +1,7 @@
+opencv-python 
+numpy==1.26.4
+ultralytics 
+torch 
+torchreid 
+scikit-learn 
+ipython
