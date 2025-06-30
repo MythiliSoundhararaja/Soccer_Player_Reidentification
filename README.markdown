@@ -1,5 +1,8 @@
 # Object Tracking with YOLOv11, BoT-SORT, and ReID
 
+![WhatsApp Image 2025-06-30 at 18 51 50_28905d08](https://github.com/user-attachments/assets/db7b5f79-51c8-4060-b728-fcf8631264ce)
+
+
 This project contains two Python scripts (`Botsort_OSnet.py` and `Botsort_RESnet.py`) for object tracking in videos using the YOLOv11 model with the BoT-SORT tracker, enhanced with Re-Identification (ReID) using either OSNet or ResNet feature extractors. The scripts process a video, track objects (e.g., players), annotate bounding boxes with track IDs, and save the output as a video file. Additionally, setup instructions for Deep SORT are included, though not used by the provided scripts.
 
 ## Prerequisites
