@@ -1,4 +1,4 @@
-# Object Tracking with YOLOv11, BoT-SORT, and ReID
+# Soccer Player Reidentification
 
 ![WhatsApp Image 2025-06-30 at 18 51 50_28905d08](https://github.com/user-attachments/assets/db7b5f79-51c8-4060-b728-fcf8631264ce)
 
